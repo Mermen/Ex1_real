@@ -119,7 +119,7 @@ int main()
 		}
 		s_temp_1 = "";
 
-	}
+	}//
 	c = start;
 	int v = 0;
 	int e = 0;
